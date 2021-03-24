@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on top secret stuff
-- 🌱 I’m currently learning C, Rust, embedded systems
+- 🌱 I’m currently learning C and a little C++
 - 👯 I’m looking to collaborate on art (especially games and music)
-- 🤔 I’m looking for help with code reviews
-- 💬 Ask me about open source, continuous integration, Jenkins, Linux
+- 💬 Ask me about open source, build systems, continuous integration, Jenkins, Linux
 - 📫 How to reach me: jon@jh86.org
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar
