@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on top secret stuff
-- 🌱 I’m currently learning C and a little C++
+- 🔭 I’m currently working on a word game
+- 🌱 I’m currently learning C# building games in Unity
 - 👯 I’m looking to collaborate on art (especially games and music)
 - 💬 Ask me about open source, build systems, continuous integration, Jenkins, Linux
-- 📫 How to reach me: jon@jh86.org
+- 📫 How to reach me: [jon at jh86 dot org plznospam](mailto:jon@jh86.org) as protocol)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar
-- 🎸 Jon was here, testing: X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
