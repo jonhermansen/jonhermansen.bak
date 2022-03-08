@@ -1,4 +1,4 @@
-[![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhermansen)](https://github.com/anuraghazra/github-readme-stats)
+[![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhermansen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
